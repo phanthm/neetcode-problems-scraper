@@ -1,3 +1,3 @@
 # neetcode-problems-scraper
 
-Scrape Neetcode 150 Problems from [https://neetcode.io/pratice](NeetCode)
+Scrape Neetcode 150 Problems from [NeetCode](https://neetcode.io/pratice)
